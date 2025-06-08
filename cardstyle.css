@@ -93,5 +93,13 @@ body ,html{
 }
 
 #icon1{
-    margin: 20px 0 auto;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+#icon2{
+    margin-right: 10px;
+}
+#icon3{
+    margin-right: 10px;
 }
